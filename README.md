@@ -52,7 +52,7 @@ Welcome to my GitHub profile! I'm an aspiring **Full Stack Developer** with a st
 #### 🔑 Full Stack Projects
 - **Talent Acquisition**: Recruitment platform for Startups.
 
-#### 📊 Data Science & ML
+#### 📊 Data Science & ML Projects
 - **EDA on Football Players Stats**: Analyzing and visualising football players performance data.
 - **House Price Prediction**: Predicting house prices using Random Forest, Linear Regression, Lasso Regression and Ridge Regression machine learning algorithms.
 
